@@ -1,0 +1,43 @@
+body{
+     background-color: black;
+     color: aliceblue;
+}
+
+.primeirasImoressoes{
+     gap:  0px;
+}
+
+.imagemCapa{
+     border-radius: 16px 16px 0px 0px;
+     position: absolute;
+     width: 780px;
+     height: 230px;
+     left: 154px;
+     top: 76px;
+     background-image: url(./assets/Capa.jpg)
+}
+
+.informacoesPessoais{
+     background-color:#1B2226;
+     position: absolute;
+     width: 780px;
+     height: 238px;
+     left: 154px;
+     top: 340px;
+     border-radius: 0px 0px 16px 16px;
+
+}
+
+.imagemPerfil{
+     position: absolute;
+     width: 160px;
+     height: 160px;
+     left: 178px;
+     top: 194px;
+     gap: 1px;
+     border-radius: 860px 860px 860px 860px;
+}
+
+.informacoesPessoais__nomeUser{
+     left: 178px 
+}
